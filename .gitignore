@@ -1,0 +1,64 @@
+# Build Folders
+Release/
+Debug/
+x64/
+x86/
+build/
+out/
+
+# Visual Studio Files
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+*.VC.db
+*.VC.VC.opendb
+
+# Backup Files
+*.bak
+*.log
+*.obj
+*.pch
+*.idb
+*.pdb
+
+# Intermediate and Cache Files
+*.ipch
+*.ilk
+*.tlog
+*.tmp
+*.log
+*.vspscc
+*.vssscc
+
+# Generated Files
+*.exe
+*.dll
+*.lib
+*.exp
+*.manifest
+
+# Visual Studio Code
+.vscode/
+*.code-workspace
+
+# Visual Studio Folder
+.vs/
+
+# Temporary Files
+*.temp
+*.~*
+~$*
+
+# System Files
+Thumbs.db
+Desktop.ini
+.DS_Store
+
+# Other IDE-specific Files
+.idea/
+*.iml
+
+# Package Manager
+packages/
+*.nuget
